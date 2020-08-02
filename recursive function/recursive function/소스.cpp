@@ -3,7 +3,7 @@
 int factorial(int);
 
 int main(void) {
-	for (int i = 1; i <= 10; i++)
+Project1	for (int i = 1; i <= 10; i++)
 		printf("%2d! = %d\n", i, factorial(i));
 
 	return 0;
